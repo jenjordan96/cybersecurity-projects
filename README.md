@@ -8,9 +8,4 @@ A growing collection of hands-on Python scripting labs designed to simulate real
 
 ## 📂 Project Structure
 
-python-cyber-labs/
-├── labs/ # Python scripts grouped by topic
-├── data/ # Sample data (JSON, text files)
-├── screenshots/ # Visual references
-├── README.md
 
